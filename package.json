@@ -1,0 +1,16 @@
+{
+  "name": "ryankropp_clickup_project",
+  "version": "1.0.0",
+  "description": "Create responsive HTML/CSS from Figma mockup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Kropp",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.27.4",
+    "gulp": "^4.0.2",
+    "gulp-cssmin": "^0.2.0"
+  }
+}
